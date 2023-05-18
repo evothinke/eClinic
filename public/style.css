@@ -1,3 +1,6 @@
+body{
+background-color: #97C1EA;
+}
 #signupForm{
     width: 20%;
     margin: auto;
@@ -40,7 +43,11 @@ button.btn.btn-primary {
     border: 2px solid black;
     border-radius: 1rem;
 }
-
+button.btn.btn-secondary {
+    margin-top: 2rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+}
 section {
     display: flex;
     flex-direction: row;
